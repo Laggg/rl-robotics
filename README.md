@@ -1,8 +1,9 @@
 ## 0. Building robot
 
 #### Setup:
-[] 111
-[] 222
+  - [x] 1. platform
+  - [] 2. stereocamera
+  - [] 3. lidar
 
 ## 1. Navigation problem (like Snake-game/Taxi-game task in 3D)
 
