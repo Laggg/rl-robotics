@@ -4,18 +4,17 @@
 [] 111
 [] 222
 
-## Navigation problem (like Snake-game/Taxi-game task in 3D)
+## 1. Navigation problem (like Snake-game/Taxi-game task in 3D)
 
 ![](demo/snake_3d_bananas.gif)
 
-#### Train a neural environment based on [this approach](https://github.com/Laggg/neural_env_surviv):
 
 Real gifs (recorded with camera)
 
 ![](demo/real1.gif)
 ![](demo/real2.gif)
 
-Fake gifs (generated with neural env)
+Fake gifs (generated with neural environment based on [this approach](https://github.com/Laggg/neural_env_surviv))
 
 ![](demo/test1.gif)
 ![](demo/test2.gif)
