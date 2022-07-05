@@ -16,6 +16,8 @@
 
 ![https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation](demo/snake_3d_bananas.gif)
 
+For some simple tasks, neural environment can completely or partially replace the need for training in a virtual simulation
+
 Real gifs (recorded with camera):
 
 ![](demo/real1.gif)
