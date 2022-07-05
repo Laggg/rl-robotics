@@ -29,4 +29,3 @@ Fake gifs (generated with neural environment based on [this approach](https://gi
 ![](demo/test2.gif)
 ![](demo/test3.gif)
 ![](demo/test4.gif)
-![](demo/test5.gif)
