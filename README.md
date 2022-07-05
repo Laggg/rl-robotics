@@ -16,7 +16,7 @@
 
 gif from [link](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)
 
-![](demo/snake_3d_bananas.gif)
+![https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation](demo/snake_3d_bananas.gif)
 
 Real gifs (recorded with camera):
 
