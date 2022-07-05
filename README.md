@@ -1,6 +1,6 @@
 ## 0. Building robot
 
-[!(https://img.youtube.com/vi/kbtf6wtFb3c/0.jpg)](https://www.youtube.com/watch?v=kbtf6wtFb3c)
+[![T1](https://img.youtube.com/vi/kbtf6wtFb3c/0.jpg)](https://www.youtube.com/watch?v=kbtf6wtFb3c)
 
 #### Our setup:
   - [x] 1. [platform](https://aliexpress.ru/item/4000153063891.html)
