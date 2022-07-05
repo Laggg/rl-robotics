@@ -1,5 +1,9 @@
 ## Setup
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+
 ![](demo/robot_demo_0.gif)
 
   - [x] 1. [platform](https://aliexpress.ru/item/4000153063891.html)
