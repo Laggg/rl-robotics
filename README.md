@@ -4,7 +4,9 @@
 [] 111
 [] 222
 
-## 1. Navigation problem (like Snake-game/Taxi-game task)
+## 1. 3d navigation problem (like Snake-game/Taxi-game task)
+
+![](demo/snake_3d_bananas.gif)
 
 #### Train a neural environment based on [this approach](https://github.com/Laggg/neural_env_surviv):
 
