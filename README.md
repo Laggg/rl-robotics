@@ -1,7 +1,7 @@
 ## 0. Building robot
 
 #### Setup:
-  - [x] 1. platform
+  - [x] 1. [platform](https://aliexpress.ru/item/4000153063891.html)
   - [ ] 2. stereocamera
   - [ ] 3. lidar
 
