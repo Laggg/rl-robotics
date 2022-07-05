@@ -1,6 +1,7 @@
 ## 0. Building robot
 
 (click to watch)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kbtf6wtFb3c/0.jpg)](https://www.youtube.com/watch?v=kbtf6wtFb3c)
 
 
