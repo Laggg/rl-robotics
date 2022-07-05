@@ -24,7 +24,3 @@ Fake gifs (generated with neural environment based on [this approach](https://gi
 ![](demo/test3.gif)
 ![](demo/test4.gif)
 ![](demo/test5.gif)
-
-## 2. Neural SLAM
-
-...
