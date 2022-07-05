@@ -1,6 +1,6 @@
 ## 1. Navigation problem (like Snake-game/Taxi-game task)
 
-#### Experiment with fitting neural environment based on [approach](https://github.com/Laggg/neural_env_surviv):
+#### Experiment with fitting neural environment based on [this approach](https://github.com/Laggg/neural_env_surviv):
 
 Real gifs (recorded with camera)
 
