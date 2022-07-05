@@ -14,8 +14,6 @@
 
 ## Navigation problem (like Snake-game/Taxi-game task in 3D)
 
-gif from [link](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)
-
 ![https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation](demo/snake_3d_bananas.gif)
 
 Real gifs (recorded with camera):
