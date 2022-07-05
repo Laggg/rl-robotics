@@ -2,15 +2,15 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| ![](demo/robot_demo_0.gif)  | Content Cell  |
-
-
-
-  - [x] 1. [platform](https://aliexpress.ru/item/4000153063891.html)
+| ![](demo/robot_demo_0.gif)  |   - [x] 1. [platform](https://aliexpress.ru/item/4000153063891.html)
   - [x] 2. [stereocamera](https://aliexpress.ru/item/4001343564945.html)
   - [x] 3. [lidar](https://aliexpress.ru/item/32895330424.html)
   - [x] 4. [controller](https://aliexpress.ru/item/4000910474677.html)
-  - [x] 5. Nvidia Jetson Xavier NX
+  - [x] 5. Nvidia Jetson Xavier NX  |
+
+
+
+
 
 ## Navigation problem (like Snake-game/Taxi-game task in 3D)
 
