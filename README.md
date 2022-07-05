@@ -1,8 +1,7 @@
-## 0. Building robot
+## Setup
 
 ![](demo/robot_demo_0.gif)
 
-#### Our setup:
   - [x] 1. [platform](https://aliexpress.ru/item/4000153063891.html)
   - [x] 2. [stereocamera](https://aliexpress.ru/item/4001343564945.html)
   - [x] 3. [lidar](https://aliexpress.ru/item/32895330424.html)
