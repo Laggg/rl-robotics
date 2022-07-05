@@ -1,3 +1,9 @@
+## 0. Building robot
+
+#### Setup:
+[] 111
+[] 222
+
 ## 1. Navigation problem (like Snake-game/Taxi-game task)
 
 #### Train a neural environment based on [this approach](https://github.com/Laggg/neural_env_surviv):
@@ -16,9 +22,5 @@ Fake gifs (generated with neural env)
 ![](demo/test5.gif)
 
 ## 2. Neural SLAM
-
-...
-
-## 3. Multi-agent interaction
 
 ...
