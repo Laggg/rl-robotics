@@ -8,7 +8,7 @@
   - [x] 4. [controller](https://aliexpress.ru/item/4000910474677.html)
   - [x] 5. Nvidia Jetson Xavier NX
 
-## 1. Navigation problem (like Snake-game/Taxi-game task in 3D)
+## Navigation problem (like Snake-game/Taxi-game task in 3D)
 
 ![](demo/snake_3d_bananas.gif)
 
