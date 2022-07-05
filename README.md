@@ -1,10 +1,6 @@
-# RL for real robots
+## 1. Navigation problem (like Snake-game/Taxi-game task)
 
-## 1. Navigation problem (Snake-game task)
-
-
-
-### Experiment with fitting neural environment based on [approach](https://github.com/Laggg/neural_env_surviv):
+#### Experiment with fitting neural environment based on [approach](https://github.com/Laggg/neural_env_surviv):
 
 Real gifs (recorded with camera)
 
@@ -19,3 +15,10 @@ Fake gifs (generated with neural env)
 ![](demo/test4.gif)
 ![](demo/test5.gif)
 
+## 2. Neural SLAM
+
+...
+
+## 3. Multi-agent interaction
+
+...
