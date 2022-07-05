@@ -4,7 +4,7 @@
 [] 111
 [] 222
 
-## 1. 3d navigation problem (like Snake-game/Taxi-game task)
+## Navigation problem (like Snake-game/Taxi-game task in 3D)
 
 ![](demo/snake_3d_bananas.gif)
 
