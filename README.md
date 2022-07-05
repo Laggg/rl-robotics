@@ -3,7 +3,8 @@
 #### Setup:
   - [x] 1. [platform](https://aliexpress.ru/item/4000153063891.html)
   - [ ] 2. stereocamera
-  - [ ] 3. lidar
+  - [ ] 3. [lidar](https://aliexpress.ru/item/32895330424.html)
+  - [ ] 4. [controller](https://aliexpress.ru/item/4000910474677.html)
 
 ## 1. Navigation problem (like Snake-game/Taxi-game task in 3D)
 
