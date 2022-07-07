@@ -1,4 +1,4 @@
-## Setup 
+## Our setup 
 
 ![](demo/robot_demo_0.gif)
 
