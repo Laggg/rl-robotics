@@ -8,9 +8,8 @@
 - [x] [controller](https://aliexpress.ru/item/4000910474677.html)
 - [x] Nvidia Jetson Xavier NX
 
-## We are inspired by these projects
+## We are inspired by [these](https://www.youtube.com/watch?v=Y75adTBkh2w) [projects](https://www.youtube.com/watch?v=AIrH01N9AsE)
 
-![](demo/inspiration1.gif)
 ![](demo/inspiration2.gif)
 ![](demo/inspiration3.gif)
 
