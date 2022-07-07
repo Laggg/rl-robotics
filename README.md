@@ -11,7 +11,8 @@
 ## We are inspired by these projects
 
 ![](demo/inspiration1.gif)
-
+![](demo/inspiration2.gif)
+![](demo/inspiration3.gif)
 
 ## Navigation problem (like Snake-game/Taxi-game task in 3D)
 
