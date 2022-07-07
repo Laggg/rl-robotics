@@ -10,8 +10,8 @@
 
 ## we are inspired by these projects
 
-![](demo/robot_demo_0.gif)
-![](demo/robot_demo_0.gif)
+![](demo/inspiration1.gif)
+![](demo/inspiration2.gif)
 
 
 
