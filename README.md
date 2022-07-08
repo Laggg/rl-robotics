@@ -13,7 +13,7 @@
 ![](demo/inspiration2.gif)
 ![](demo/inspiration3.gif)
 
-## Visual navigation problem (like Snake-game/Taxi-game task in 3D)
+## Visual navigation problem
 
 ![https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation](demo/snake_3d_bananas.gif)
 
