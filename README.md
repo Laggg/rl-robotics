@@ -1,6 +1,7 @@
 ## Our setup 
 
 ![](demo/robot_demo_0.gif)
+![](demo/robot_demo_1.gif)
 
 - [x] [platform](https://aliexpress.ru/item/4000153063891.html)
 - [x] [stereocamera](https://aliexpress.ru/item/4001343564945.html)
