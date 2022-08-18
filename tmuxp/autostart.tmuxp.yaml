@@ -1,0 +1,16 @@
+session_name: JetsonNX
+start_directory: /home/user
+global_options:
+  default-shell: /bin/bash
+  default-command: /bin/bash
+environment:
+  EDITOR: /bin/nano
+windows:
+  - window_name: ROS
+    layout: tiled
+    shell_command_before:
+      - export PATH="/sbin:/usr/local/bin:${PATH}"
+      - source /opt/ros/noetic/setup.bash
+    panes:
+      - roscore
+      - sleep 10; rosrun rplidar_ros rplidarNode _serial_port:=/dev/serial/by-id/usb-Silicon_Labs_CP2102_USB_to_UART_Bridge_Controller_0001-if00-port0 _frame_id:=laser _serial_baudrate:=115200
