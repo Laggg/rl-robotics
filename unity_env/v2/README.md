@@ -2,6 +2,9 @@
 <details>
   <summary>Ubuntu/MacOS</summary>
   
+  1. Dowland Unity Hub from (this link)[https://unity3d.com/ru/get-unity/download]
+  2. Dowland Unity Engine 2020.3.25f1 from (this link)[https://unity3d.com/get-unity/download/archive]
+  3. In terminal:
   ```
   git clone https://github.com/Laggg/rl-robotics
   cd rl-robotics/unity_env/v2
@@ -12,6 +15,7 @@
   pip install matplotlib
   pip install jupyterlab
   ```
+  4. start jupyter notebook in unity_venv and run 2 block in file 
 </details>
 
 <details>
