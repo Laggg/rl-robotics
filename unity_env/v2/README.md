@@ -1,6 +1,3 @@
-# RoboDriver
-A Unity ML-Agents environment for robotics transfer learning research.
-
 ## Agent trained using ML-Agents
 
 ![runs](./Images/RoboDriverTop.gif)
