@@ -17,14 +17,18 @@
 #### For some simple tasks, neural environment can completely or partially replace the need for training in a virtual simulation
 
 <details>
-  <summary>Real gifs (recorded with camera)</summary>
+  <summary>Real gifs </summary>
+  
+  Recorded with camera:
   
   ![](demo/real1.gif)
   ![](demo/real2.gif)
 </details>
 
 <details>
-  <summary>Fake gifs (generated with neural environment based on [this approach](https://github.com/Laggg/neural_env_surviv)):</summary>
+  <summary>Fake gifs</summary>
+  
+  Generated with neural environment based on [this approach](https://github.com/Laggg/neural_env_surviv)):
   
   ![](demo/test1.gif)
   ![](demo/test2.gif)
