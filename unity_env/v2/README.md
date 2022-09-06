@@ -55,8 +55,9 @@ To edit agent's settings open RoboDriverAgent prefab
 ![runs](./Images/agent_settings.png)
 
 
+## DQN testing
 <details>
-  <summary>## DQN testing</summary>
+  <summary>DQN testing</summary>
 
     Agent's observations:
 
