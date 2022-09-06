@@ -3,7 +3,7 @@
   <summary>Ubuntu/MacOS</summary>
   
   1. Dowland Unity Hub from [this link](https://unity3d.com/ru/get-unity/download)
-  2. Dowland Unity Engine 2020.3.25f1 from (this link)[https://unity3d.com/get-unity/download/archive]
+  2. Dowland Unity Engine 2020.3.25f1 from [this link](https://unity3d.com/get-unity/download/archive) with UnityHub
   3. In terminal:
   ```
   git clone https://github.com/Laggg/rl-robotics
