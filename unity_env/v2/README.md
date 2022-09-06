@@ -7,15 +7,15 @@ A Unity ML-Agents environment for robotics transfer learning research.
 
 Agent's observations 
 
-![runs](/Images/RoboDriverAgentPerspective.gif)
+![runs](./Images/RoboDriverAgentPerspective.gif)
 
 Training process of an agent which takes 2 decisions per second
 
-![runs](/Images/RoboDriver.png)
+![runs](./Images/RoboDriver.png)
 
 Training process of an agent which takes 25 decisions per second
 
-![runs](/Images/agentDecisionPeriod2.png)
+![runs](./Images/agentDecisionPeriod2.png)
 
 
 ## Installation
@@ -55,8 +55,8 @@ Manual running (If Conda is not in Path and batch files throw errors):
 
 To edit agent's settings open RoboDriverAgent prefab
 
-![runs](/Images/agent_settings.png)
+![runs](./Images/agent_settings.png)
 
 Agent's scene
 
-![runs](/Images/agent_environment.png)
+![runs](./Images/agent_environment.png)
