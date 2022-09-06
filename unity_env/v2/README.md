@@ -3,11 +3,17 @@
   <summary>Ubuntu/MacOS</summary>
   
   cd rl-robotics/unity_env/v2
+  
   python -m venv unity_venv
+  
   source unity_venv/bin/activate
+  
   pip install --upgrade pip
+  
   pip install mlagents
+  
   pip install matplotlib
+  
   pip install jupyterlab
   
 </details>
