@@ -39,12 +39,21 @@
     5. Run `pip install mlagents`
     6. Run `pip install matplotlib`
     7. Run `pip install jupyterlab`
+  
+    Automatic running:
+    1. Run `start_jupyter_lab.bat`
+
+    Manual running (If Conda is not in Path and batch files throw errors):
+
+    1. Open Anaconda Prompt, navigate to project root using `cd path/to/folder`
+    2. Run `activate RoboDriver`
+    3. Run `jupyter lab`
+    4. Navigate to notebooks folder and run the notebook
 </details>
 
+## Unity project structure
 
 ![runs](./Images/RoboDriverTop.gif)
-
-## Unity project structure
 
 Agent's scene
 
@@ -75,14 +84,6 @@ To edit agent's settings open RoboDriverAgent prefab
 
 Documentation for [LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API.md), [more LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API-Documentation.md) and [GymWrapper](https://github.com/CubeMD/ml-agents/blob/master/gym-unity/README.md).
 
-Automatic running:
-1. Run `start_jupyter_lab.bat`
 
-Manual running (If Conda is not in Path and batch files throw errors):
-
-1. Open Anaconda Prompt, navigate to project root using `cd path/to/folder`
-2. Run `activate RoboDriver`
-3. Run `jupyter lab`
-4. Navigate to notebooks folder and run the notebook
 
 
