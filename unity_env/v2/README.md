@@ -51,7 +51,7 @@
     4. Navigate to notebooks folder and run the notebook
 </details>
 
-## Unity project structure
+## Structure
 
 ![runs](./Images/RoboDriverTop.gif)
 
