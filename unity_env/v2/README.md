@@ -55,13 +55,17 @@
 
 ![runs](./Images/RoboDriverTop.gif)
 
-Agent's scene
+<details>
+  <summary>Agent's scene</summary>
 
-![runs](./Images/agent_environment.png)
+    ![runs](./Images/agent_environment.png)
+</details>
 
-To edit agent's settings open RoboDriverAgent prefab
+<details>
+  <summary>To edit agent's settings open RoboDriverAgent prefab</summary>
 
 ![runs](./Images/agent_settings.png)
+</details>
 
 ## Python API docs
 
