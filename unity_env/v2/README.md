@@ -62,8 +62,9 @@
 </details>
 
 <details>
-  <summary>To edit agent's settings open RoboDriverAgent prefab</summary>
+  <summary>Agent's prefab</summary>
 
+  To edit agent's settings open RoboDriverAgent prefab:
   ![runs](./Images/agent_settings.png)
 </details>
 
