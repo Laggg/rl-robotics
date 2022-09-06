@@ -1,7 +1,6 @@
 ## Installation
 <details>
   <summary>Ubuntu/MacOS</summary>
-  
   ```
   git clone https://github.com/Laggg/rl-robotics
   cd rl-robotics/unity_env/v2
@@ -12,13 +11,30 @@
   pip install matplotlib
   pip install jupyterlab
   ```
-  
+</details>
+
+<details>
+  <summary>Windows</summary>
+    1. Clone the project using a version control system of your choice.
+    2. Download and install the [Anaconda](https://www.anaconda.com/products/individual). It is important to select `Just Me` in `Install for:` step and add Anaconda to the path to allow you to use the included batch files.
+    3. Open `Anaconda Navigator` once to finish up the installation. Just close it when it finishes loading.
+
+    Automatic installation using batch file:
+
+    4. Run `Install.bat`
+
+    Manual installation (If Conda is not in Path and batch files throw errors):
+
+    4. Open Anaconda Prompt, navigate to project root using `cd path_to_folder`
+    5. Run `conda create -n RoboDriver python=3.7`
+    6. Run `activate RoboDriver`
+    5. Run `pip install mlagents`
+    6. Run `pip install matplotlib`
+    7. Run `pip install jupyterlab`
 </details>
 
 
 ## Agent trained using ML-Agents
-
-
 
 ![runs](./Images/RoboDriverTop.gif)
 
@@ -35,24 +51,6 @@ Training process of an agent which takes 25 decisions per second
 ![runs](./Images/agentDecisionPeriod2.png)
 
 
-
-
-1. Clone the project using a version control system of your choice.
-2. Download and install the [Anaconda](https://www.anaconda.com/products/individual). It is important to select `Just Me` in `Install for:` step and add Anaconda to the path to allow you to use the included batch files.
-3. Open `Anaconda Navigator` once to finish up the installation. Just close it when it finishes loading.
-
-Automatic installation using batch file:
-
-4. Run `Install.bat`
-
-Manual installation (If Conda is not in Path and batch files throw errors):
-
-4. Open Anaconda Prompt, navigate to project root using `cd path_to_folder`
-5. Run `conda create -n RoboDriver python=3.7`
-6. Run `activate RoboDriver`
-5. Run `pip install mlagents`
-6. Run `pip install matplotlib`
-7. Run `pip install jupyterlab`
 
 ## Communicating with environment via UnityEnvironment class (LowLevelAPI)
 
