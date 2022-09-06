@@ -54,25 +54,9 @@ To edit agent's settings open RoboDriverAgent prefab
 
 ![runs](./Images/agent_settings.png)
 
-## DQN testing
+## RL experiments
 <details>
-  <summary>Ubuntu/MacOS</summary>
-  
-  1. Dowland Unity Hub from [this link](https://unity3d.com/ru/get-unity/download)
-  2. Dowland Unity Engine 2020.3.25f1 from [this link](https://unity3d.com/get-unity/download/archive) with UnityHub
-  3. In terminal:
-  ```
-  git clone https://github.com/Laggg/rl-robotics
-  cd rl-robotics/unity_env/v2
-  python -m venv unity_venv
-  source unity_venv/bin/activate
-  pip install --upgrade pip
-  pip install mlagents
-  pip install matplotlib
-  pip install jupyterlab
-  ```
-  4. start jupyter notebook in unity_venv and run first 2 blocks in file **rl-robotics/unity_env/v2/Notebooks/test.ipynb**
-  5. In jupyter you can see agent's observations:
+  <summary>DQN testing</summary>
   
   ![runs](./Images/RoboDriverAgentPerspective.gif)
 </details>
