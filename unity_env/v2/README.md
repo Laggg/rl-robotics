@@ -2,6 +2,7 @@
 <details>
   <summary>Ubuntu/MacOS</summary>
   
+  ```
   cd rl-robotics/unity_env/v2
   
   python -m venv unity_venv
@@ -15,6 +16,7 @@
   pip install matplotlib
   
   pip install jupyterlab
+  ```
   
 </details>
 
