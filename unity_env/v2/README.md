@@ -63,6 +63,12 @@ To edit agent's settings open RoboDriverAgent prefab
 
 ![runs](./Images/agent_settings.png)
 
+## Python API docs
+
+- [x] [LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API.md)
+- [x] [more LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API-Documentation.md)
+- [x] [GymWrapper](https://github.com/CubeMD/ml-agents/blob/master/gym-unity/README.md)
+
 ## RL experiments
 <details>
   <summary>DQN testing</summary>
@@ -79,9 +85,3 @@ To edit agent's settings open RoboDriverAgent prefab
 
   ![runs](./Images/agentDecisionPeriod2.png)
 </details>
-
-## Communicating with environment via UnityEnvironment class (LowLevelAPI)
-
-- [x] [LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API.md)
-- [x] [more LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API-Documentation.md)
-- [x] [GymWrapper](https://github.com/CubeMD/ml-agents/blob/master/gym-unity/README.md).
