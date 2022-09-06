@@ -1,4 +1,21 @@
+## Installation
+<details>
+  <summary>Ubuntu/MacOS</summary>
+  
+  cd rl-robotics/unity_env/v2
+  python -m venv unity_venv
+  source unity_venv/bin/activate
+  pip install --upgrade pip
+  pip install mlagents
+  pip install matplotlib
+  pip install jupyterlab
+  
+</details>
+
+
 ## Agent trained using ML-Agents
+
+
 
 ![runs](./Images/RoboDriverTop.gif)
 
@@ -15,7 +32,7 @@ Training process of an agent which takes 25 decisions per second
 ![runs](./Images/agentDecisionPeriod2.png)
 
 
-## Installation
+
 
 1. Clone the project using a version control system of your choice.
 2. Download and install the [Anaconda](https://www.anaconda.com/products/individual). It is important to select `Just Me` in `Install for:` step and add Anaconda to the path to allow you to use the included batch files.
