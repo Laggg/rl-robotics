@@ -1,6 +1,7 @@
 ## Installation
 <details>
   <summary>Ubuntu/MacOS</summary>
+  
   ```
   git clone https://github.com/Laggg/rl-robotics
   cd rl-robotics/unity_env/v2
