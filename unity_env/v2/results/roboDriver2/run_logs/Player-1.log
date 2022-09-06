@@ -1,0 +1,45 @@
+Mono path[0] = 'C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Managed'
+Mono config path = 'C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   
+    VRAM:     8011 MB
+    Driver:   31.0.15.1659
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.075 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.689600 ms
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data/Mono/libSystem.dylib
+Unable to save timers to file C:/Users/marke/repos/RoboDriver/Builds/RoboDriver/RoboDriverUnityProject_Data\ML-Agents\Timers\RoboDriver_timers.json
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 944 -> priority: 1 
+  Thread -> id: 39f0 -> priority: 1 
+  Thread -> id: 39e0 -> priority: 1 
+  Thread -> id: 1900 -> priority: 1 
+  Thread -> id: 4edc -> priority: 1 
+  Thread -> id: 2fdc -> priority: 1 
+  Thread -> id: 320c -> priority: 1 
+  Thread -> id: 1ff8 -> priority: 1 

@@ -1,0 +1,47 @@
+{
+    "decision_period": {
+        "lesson_num": 0
+    },
+    "environments_per_unity_process": {
+        "lesson_num": 0
+    },
+    "multi_scene": {
+        "lesson_num": 0
+    },
+    "RoboDriver": {
+        "checkpoints": [
+            {
+                "steps": 499984,
+                "file_path": "results\\roboDriver\\RoboDriver\\RoboDriver-499984.onnx",
+                "reward": 9.672131147540984,
+                "creation_time": 1661830405.0149906,
+                "auxillary_file_paths": [
+                    "results\\roboDriver\\RoboDriver\\RoboDriver-499984.pt"
+                ]
+            },
+            {
+                "steps": 881160,
+                "file_path": "results\\roboDriver\\RoboDriver\\RoboDriver-881160.onnx",
+                "reward": 10.0,
+                "creation_time": 1661830708.421206,
+                "auxillary_file_paths": [
+                    "results\\roboDriver\\RoboDriver\\RoboDriver-881160.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 881160,
+            "file_path": "results\\roboDriver\\RoboDriver.onnx",
+            "reward": 10.0,
+            "creation_time": 1661830708.421206,
+            "auxillary_file_paths": [
+                "results\\roboDriver\\RoboDriver\\RoboDriver-881160.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0.dev0",
+        "torch_version": "1.11.0"
+    }
+}

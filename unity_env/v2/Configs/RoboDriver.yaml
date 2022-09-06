@@ -1,0 +1,42 @@
+behaviors:
+  RoboDriver:
+    trainer_type: ppo
+    hyperparameters:
+      batch_size: 256
+      buffer_size: 10240
+      learning_rate: 0.0003
+      learning_rate_schedule: linear
+      beta: 0.005
+      epsilon: 0.2
+      lambd: 0.95
+      num_epoch: 3
+    max_steps: 10000000
+    time_horizon: 30
+    summary_freq: 10000
+    keep_checkpoints: 5
+    checkpoint_interval: 500000
+    threaded: true
+    network_settings:
+      vis_encoder_type: simple
+      normalize: true
+      hidden_units: 128
+      num_layers: 2
+    reward_signals:
+      extrinsic:
+        strength: 1.0
+        gamma: 0.99
+env_settings:
+  env_path: C:\Users\marke\repos\RoboDriver\Builds\RoboDriver\RoboDriverUnityProject
+  num_envs: 5
+  seed: -1
+engine_settings:
+  time_scale: 20
+checkpoint_settings:
+  run_id: roboDriver
+debug: true
+torch_settings:
+  device: cuda
+environment_parameters:
+  decision_period: 25
+  environments_per_unity_process: 20
+  multi_scene: 0
