@@ -82,8 +82,6 @@ To edit agent's settings open RoboDriverAgent prefab
 
 ## Communicating with environment via UnityEnvironment class (LowLevelAPI)
 
-Documentation for [LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API.md), [more LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API-Documentation.md) and [GymWrapper](https://github.com/CubeMD/ml-agents/blob/master/gym-unity/README.md).
-
-
-
-
+- [x] [LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API.md)
+- [x] [more LowLevelAPI](https://github.com/CubeMD/ml-agents/blob/master/docs/Python-API-Documentation.md)
+- [x] [GymWrapper](https://github.com/CubeMD/ml-agents/blob/master/gym-unity/README.md).
