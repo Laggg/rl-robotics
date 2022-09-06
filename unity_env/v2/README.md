@@ -1,4 +1,4 @@
-## Installation
+## Env installation
 <details>
   <summary>Ubuntu/MacOS</summary>
   
