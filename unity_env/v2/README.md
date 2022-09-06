@@ -51,7 +51,7 @@
     4. Navigate to notebooks folder and run the notebook
 </details>
 
-## Structure
+## Env structure
 
 ![runs](./Images/RoboDriverTop.gif)
 
