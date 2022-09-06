@@ -17,6 +17,7 @@
   ```
   4. start jupyter notebook in unity_venv and run first 2 blocks in file **rl-robotics/unity_env/v2/Notebooks/test.ipynb**
   5. In jupyter you can see agent's observations:
+  
   ![runs](./Images/RoboDriverAgentPerspective.gif)
 </details>
 
