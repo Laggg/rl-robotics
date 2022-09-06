@@ -8,14 +8,14 @@
 - [x] [controller](https://aliexpress.ru/item/4000910474677.html)
 - [x] Nvidia Jetson Xavier NX
 
+## Visual navigation problem (using ml-agents unity environment)
+
+![runs](./unity_env/v2/Images/RoboDriverTop.gif)
+
 ## We are inspired by [these](https://www.youtube.com/watch?v=Y75adTBkh2w) [projects](https://www.youtube.com/watch?v=AIrH01N9AsE)
 
 ![](demo/inspiration2.gif)
 ![](demo/inspiration3.gif)
-
-## Visual navigation problem (using ml-agents unity environment)
-
-![runs](./unity_env/v2/Images/RoboDriverTop.gif)
 
 #### For some simple tasks, neural environment can completely or partially replace the need for training in a virtual simulation
 
