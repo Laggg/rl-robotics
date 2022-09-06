@@ -13,7 +13,7 @@
 ![](demo/inspiration2.gif)
 ![](demo/inspiration3.gif)
 
-## Visual navigation problem / Visual SLAM based Localization
+## Visual navigation problem (using ml-agents unity environment)
 
 ![runs](./unity_env/v2/Images/RoboDriverTop.gif)
 
