@@ -15,7 +15,7 @@
   pip install matplotlib
   pip install jupyterlab
   ```
-  4. start jupyter notebook in unity_venv and run 2 block in file 
+  4. start jupyter notebook in unity_venv and run first 2 blocks in file **rl-robotics/unity_env/v2/Notebooks/test.ipynb**
 </details>
 
 <details>
