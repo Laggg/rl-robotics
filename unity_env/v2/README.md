@@ -46,29 +46,31 @@
 
 ## Unity project structure
 
-To edit agent's settings open RoboDriverAgent prefab
-
-![runs](./Images/agent_settings.png)
-
 Agent's scene
 
 ![runs](./Images/agent_environment.png)
 
-## DQN testing
+To edit agent's settings open RoboDriverAgent prefab
 
-Agent's observations:
-  
-![runs](./Images/RoboDriverAgentPerspective.gif)
-  
-Training process of an agent which takes 2 decisions per second
-
-![runs](./Images/RoboDriver.png)
-
-Training process of an agent which takes 25 decisions per second
-
-![runs](./Images/agentDecisionPeriod2.png)
+![runs](./Images/agent_settings.png)
 
 
+<details>
+  <summary>## DQN testing</summary>
+
+    Agent's observations:
+
+    ![runs](./Images/RoboDriverAgentPerspective.gif)
+
+    Training process of an agent which takes 2 decisions per second
+
+    ![runs](./Images/RoboDriver.png)
+
+    Training process of an agent which takes 25 decisions per second
+
+    ![runs](./Images/agentDecisionPeriod2.png)
+
+</details>
 
 ## Communicating with environment via UnityEnvironment class (LowLevelAPI)
 
