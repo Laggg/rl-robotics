@@ -42,12 +42,24 @@
 </details>
 
 
-## Agent trained using ML-Agents
-
 ![runs](./Images/RoboDriverTop.gif)
 
+## Unity project structure
 
+To edit agent's settings open RoboDriverAgent prefab
 
+![runs](./Images/agent_settings.png)
+
+Agent's scene
+
+![runs](./Images/agent_environment.png)
+
+## DQN testing
+
+Agent's observations:
+  
+![runs](./Images/RoboDriverAgentPerspective.gif)
+  
 Training process of an agent which takes 2 decisions per second
 
 ![runs](./Images/RoboDriver.png)
@@ -72,12 +84,4 @@ Manual running (If Conda is not in Path and batch files throw errors):
 3. Run `jupyter lab`
 4. Navigate to notebooks folder and run the notebook
 
-## Unity project structure
 
-To edit agent's settings open RoboDriverAgent prefab
-
-![runs](./Images/agent_settings.png)
-
-Agent's scene
-
-![runs](./Images/agent_environment.png)
