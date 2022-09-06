@@ -75,7 +75,7 @@
 
 ## RL experiments
 <details>
-  <summary>DQN testing</summary>
+  <summary>PPO testing</summary>
   
   Agent's observations:
   
