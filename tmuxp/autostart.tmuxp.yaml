@@ -11,6 +11,8 @@ windows:
     shell_command_before:
       - export PATH="/sbin:/usr/local/bin:${PATH}"
       - source /opt/ros/noetic/setup.bash
+      - source /home/user/workspace/catkin_ws/devel/setup.bash
     panes:
       - roscore
       - sleep 10; rosrun rplidar_ros rplidarNode _serial_port:=/dev/serial/by-id/usb-Silicon_Labs_CP2102_USB_to_UART_Bridge_Controller_0001-if00-port0 _frame_id:=laser _serial_baudrate:=115200
+      - sleep 10; roslaunch rl-robotics camera.launch
